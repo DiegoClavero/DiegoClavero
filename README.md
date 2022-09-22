@@ -13,7 +13,7 @@ Spain is an beautiful country, you should definitely come visit me! <img src="sp
 I have learned several languages over the years:
 - Python <a href="https://www.python.org"> <img src="python.png" alt="Python" style="float:none;width:16px;height:16px;"/></a>
 - C/C++ <a href="https://es.wikipedia.org/wiki/C%2B%2B"> <img src="cpp.png" alt="C/C++" style="float:none;width:14px;height:16px;"/> </a>
-- C# <a href="https://es.wikipedia.org/wiki/C_Sharp"> <img src="cs.png" alt="C#" style="float:none;width:16px;height:16px;"/> </a>
+- C# <a href="https://es.wikipedia.org/wiki/C_Sharp"> <img src="cs.png" alt="C#" style="float:none;width:14px;height:16px;"/> </a>
 - Java <a href="https://www.java.com/en/"> <img src="java.png" alt="Java" style="float:none;width:16px;height:16px;"/> </a>
 - JS <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"> <img src="js.png" alt="JS" style="float:none;width:16px;height:16px;"/> </a>
 
