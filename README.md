@@ -27,6 +27,6 @@ Although I have completed most of my objectives, some are left to do, such as:
 New things will be added with the years, to hopefully end up completing them.
 
 # Closing regards
-It would be great if you took a look around <a href="https://callmethunder-dev.github.io">my webpage</a>, but it's up to you.
+It would be great if you took a look around <a href="https://diegoclavero.github.io">my webpage</a>, but it's up to you.
 
 I haven't got much else to say, thanks for looking around my profile. Take care! 😊
