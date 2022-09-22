@@ -14,7 +14,7 @@ I have learned several languages over the years:
 - Python <a href="https://www.python.org"> <img src="python.png" alt="Python" style="float:none;width:16px;height:16px;"/></a>
 - C/C++ <a href="https://es.wikipedia.org/wiki/C%2B%2B"> <img src="cpp.png" alt="C/C++" style="float:none;width:14px;height:16px;"/> </a>
 - Java <a href="https://www.java.com/en/"> <img src="java.png" alt="Java" style="float:none;width:16px;height:16px;"/> </a>
-- JS <a href="https://es.wikipedia.org/wiki/JavaScript"> <img src="js.png" alt="JS" style="float:none;width:16px;height:16px;"/> </a>
+- JS <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"> <img src="js.png" alt="JS" style="float:none;width:16px;height:16px;"/> </a>
 
 # To-do list
 Although I have completed most of my objectives, some are left to do, such as:
